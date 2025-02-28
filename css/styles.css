@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #E6E6FA;
 }
 
 /* Styles for lists in the document */
@@ -51,11 +51,11 @@ body {
 }
 
 .language-level .language-progress {
-	background-color:#d05a0b !important; /* Change to your desired color */
+	background-color:#9370DB !important; /* Change to your desired color */
 }
 
 .language-level {
-	background-color: #4c61af !important; /* Change to your desired color */
+	background-color: #B0E0E6 !important; /* Change to your desired color */
 }
 
 .language-level {
