@@ -15,7 +15,13 @@ h2{
 	color: rgb(29, 29, 80);
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-/* Styles for custom classes in the document. (There are more, try to find them out!) */
+
+h4 {
+    color: rgb(78, 5, 56);
+    font-family: 'Trebuchet MS';
+    font-style: italic;
+}
+
 
 .resume-header {
     background-color: #D8BFD8;
