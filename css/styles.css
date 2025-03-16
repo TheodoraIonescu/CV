@@ -22,11 +22,11 @@ h2{
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #f0e7f0;
 }
 
 .resume-aside {
-	background-color: #E6E6FA;
+	background-color: #afafeb;
 }
 
 /* Styles for lists in the document */
@@ -59,7 +59,7 @@ h2{
 }
 
 .language-level {
-	background-color: #B0E0E6 !important; /* Change to your desired color */
+	background-color: #12d1f3 !important; /* Change to your desired color */
 }
 
 .language-level {
